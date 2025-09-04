@@ -1,0 +1,13 @@
+ugc-net-quiz/
+│
+├── index.html         ← Homepage (UGC NET Quiz Hub)
+├── quiz.html          ← Quiz page (loads subjects/papers)
+├── style.css          ← Styling
+├── script.js          ← Quiz logic
+│
+├── data/
+│   ├── 2004.json      ← UGC NET 2004 questions
+│   ├── 2005.json      ← UGC NET 2005 questions
+│   └── ... (add more years)
+│
+└── subjects.json      ← List of subjects (Political Science, Maths, etc.)
