@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Who is considered the father of Political Science?",
+    "options": ["Plato", "Aristotle", "Machiavelli", "Socrates"],
+    "answer": "Aristotle"
+  },
+  {
+    "question": "The term 'Liberty' in Political Science means?",
+    "options": ["Absence of law", "Freedom under law", "Power of rulers", "Anarchy"],
+    "answer": "Freedom under law"
+  },
+  {
+    "question": "In which year was the UNO founded?",
+    "options": ["1945", "1919", "1939", "1950"],
+    "answer": "1945"
+  }
+]
