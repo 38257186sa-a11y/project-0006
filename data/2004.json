@@ -1,17 +1,122 @@
 [
   {
-    "question": "Who is considered the father of Political Science?",
-    "options": ["Plato", "Aristotle", "Machiavelli", "Socrates"],
-    "answer": "Aristotle"
+    "question": "Which thinker argued that the state exists primarily as an instrument of class domination, rather than as a neutral arbiter?",
+    "options": ["Max Weber", "Karl Marx", "Hobbes", "John Locke"],
+    "answer": "Karl Marx",
+    "explanation": "Karl Marx conceptualized the state as a superstructure emerging from the economic base, primarily serving the interests of the ruling class (bourgeoisie) by maintaining conditions favorable to capital accumulation and suppressing the proletariat. Unlike Weber, who emphasized legitimacy and authority, Marx’s perspective is rooted in historical materialism."
   },
   {
-    "question": "The term 'Liberty' in Political Science means?",
-    "options": ["Absence of law", "Freedom under law", "Power of rulers", "Anarchy"],
-    "answer": "Freedom under law"
+    "question": "The concept of 'Political Obligation' is most rigorously theorized in which work?",
+    "options": ["Leviathan", "Two Treatises of Government", "The Republic", "The Social Contract"],
+    "answer": "Leviathan",
+    "explanation": "Thomas Hobbes in 'Leviathan' (1651) articulates a rigorous theory of political obligation, arguing that individuals consent to absolute sovereignty to escape the anarchic 'state of nature', where life is 'solitary, poor, nasty, brutish, and short'. This foundational work distinguishes Hobbesian obligation from Lockean natural rights-based consent."
   },
   {
-    "question": "In which year was the UNO founded?",
-    "options": ["1945", "1919", "1939", "1950"],
-    "answer": "1945"
+    "question": "Which of the following best captures Robert Dahl's conception of 'Polyarchy'?",
+    "options": ["A system with nominal elections but concentrated elite power", "A theoretical construct of ideal democracy", "A form of competitive democracy with institutionalized inclusiveness", "Direct participatory democracy at local levels only"],
+    "answer": "A form of competitive democracy with institutionalized inclusiveness",
+    "explanation": "Robert Dahl introduced 'Polyarchy' to denote regimes exhibiting high levels of contestation and participation. Unlike classical democracy, polyarchies combine competitive electoral processes with institutional mechanisms allowing broad citizen inclusion, balancing the tensions between participation and political feasibility."
+  },
+  {
+    "question": "In Arend Lijphart's typology, which institutional arrangement best characterizes consensus democracies?",
+    "options": ["Centralized unitary government with majoritarian electoral rules", "Federal system with proportional representation and coalition governance", "Authoritarian pluralism with controlled participation", "Single-party dominant system with weak opposition"],
+    "answer": "Federal system with proportional representation and coalition governance",
+    "explanation": "Lijphart’s framework distinguishes consensus democracies from majoritarian systems. Consensus democracies emphasize power-sharing, multiparty coalitions, proportional electoral systems, federalism, and minority protection, contrasting with the concentration and efficiency of majoritarian democracy."
+  },
+  {
+    "question": "Which theory contends that modern states evolved primarily through processes of rational-legal institutionalization rather than conquest or tradition?",
+    "options": ["Historical Institutionalism", "Weberian Bureaucratic Theory", "Social Contract Theory", "Force Theory"],
+    "answer": "Weberian Bureaucratic Theory",
+    "explanation": "Max Weber theorized that modern states are distinguished by the rational-legal authority of bureaucracies. Unlike Force or Evolutionary Theories, the legitimacy of authority derives from codified rules, impersonality, and functional specialization, emphasizing institutional rationalization as central to state formation."
+  },
+  {
+    "question": "Which postcolonial theorist emphasized that the legacies of colonial power continue to structure political, social, and economic relations in ostensibly independent states?",
+    "options": ["Frantz Fanon", "Edward Said", "Benedict Anderson", "Antonio Gramsci"],
+    "answer": "Frantz Fanon",
+    "explanation": "Fanon, in works such as 'The Wretched of the Earth' (1961), analyzes how colonial structures and psychological domination persist post-independence, creating neo-colonial hierarchies, internalized oppression, and socio-political instability, thereby challenging notions of sovereignty and formal legal independence."
+  },
+  {
+    "question": "In classical realism, the concept of 'anarchy' in international relations primarily implies:",
+    "options": ["Complete absence of law and morality", "Self-help and the absence of overarching authority", "Cooperation enforced by international law", "Global governance through hegemonic states"],
+    "answer": "Self-help and the absence of overarching authority",
+    "explanation": "Classical realists such as Hans Morgenthau conceive the international system as anarchic, meaning there is no supranational authority above states. This condition necessitates self-help strategies, balancing power, and prioritizing national interest over moral or legal considerations."
+  },
+  {
+    "question": "Which thinker critiqued liberal notions of neutrality by emphasizing the role of ideology in maintaining social domination?",
+    "options": ["Antonio Gramsci", "John Stuart Mill", "Hannah Arendt", "Jean-Jacques Rousseau"],
+    "answer": "Antonio Gramsci",
+    "explanation": "Gramsci’s theory of cultural hegemony posits that ruling classes sustain domination not merely through coercion but via ideological consent. By shaping beliefs, norms, and institutions, hegemony renders power relations seemingly natural, challenging classical liberal assumptions of state neutrality."
+  },
+  {
+    "question": "Samuel Huntington's 'Clash of Civilizations' thesis argues that post-Cold War conflicts are primarily driven by:",
+    "options": ["Ideological polarization between capitalism and socialism", "Economic competition for resources", "Cultural and civilizational identities", "Territorial disputes alone"],
+    "answer": "Cultural and civilizational identities",
+    "explanation": "Huntington (1993) posits that global politics in the post-Cold War era will be increasingly shaped by cultural and civilizational fault lines, arguing that fundamental identity differences, not ideological or economic factors, will dominate interstate and intrastate conflicts."
+  },
+  {
+    "question": "The concept of 'Deliberative Democracy' is most closely associated with:",
+    "options": ["Robert Dahl", "Jürgen Habermas", "John Rawls", "Alexis de Tocqueville"],
+    "answer": "Jürgen Habermas",
+    "explanation": "Habermas’ theory of deliberative democracy emphasizes the legitimacy of political decisions arising from rational-critical discourse among free and equal citizens. Unlike aggregative or procedural models, deliberative democracy prioritizes communicative reasoning and consensus-building as the foundation of democratic legitimacy."
+  },
+  {
+    "question": "Which approach in Comparative Politics emphasizes historical context, institutional continuity, and path dependency in political outcomes?",
+    "options": ["Behavioralism", "Rational Choice Theory", "Historical Institutionalism", "Structural Functionalism"],
+    "answer": "Historical Institutionalism",
+    "explanation": "Historical Institutionalism focuses on how political institutions develop over time and shape behavior, emphasizing that political outcomes are path-dependent. Unlike Behavioralism, which prioritizes quantifiable individual behavior, Historical Institutionalism situates politics within temporal and institutional structures."
+  },
+  {
+    "question": "Hannah Arendt’s analysis of totalitarianism primarily highlights:",
+    "options": ["Economic determinism of state policy", "The bureaucratic efficiency of authoritarian regimes", "The ideological and terror mechanisms sustaining mass domination", "The democratic potential of civil society"],
+    "answer": "The ideological and terror mechanisms sustaining mass domination",
+    "explanation": "Arendt’s seminal work 'The Origins of Totalitarianism' (1951) examines how totalitarian regimes maintain power through a combination of rigid ideology and systematic terror, mobilizing masses and dismantling traditional social structures. She differentiates totalitarianism from classical tyranny by its systemic, all-encompassing nature."
+  },
+  {
+    "question": "Which thinker’s work underpins the idea of developmental states, emphasizing strong state intervention to accelerate economic growth?",
+    "options": ["Friedrich Hayek", "Max Weber", "Chalmers Johnson", "John Locke"],
+    "answer": "Chalmers Johnson",
+    "explanation": "Chalmers Johnson analyzed post-war East Asian economies, particularly Japan, to articulate the concept of developmental states. Unlike laissez-faire liberal theories (Hayek), developmental states rely on bureaucratic autonomy, strategic planning, and state-led industrial policy to achieve rapid economic transformation."
+  },
+  {
+    "question": "The concept of 'Political Culture' was systematically operationalized by:",
+    "options": ["Almond and Verba", "Robert Putnam", "Gabriel Almond", "David Easton"],
+    "answer": "Almond and Verba",
+    "explanation": "Almond and Verba’s 'The Civic Culture' (1963) introduced the empirical study of political culture, identifying participant, subject, and parochial orientations. Their framework links civic values and political behavior, emphasizing the interaction between societal norms and democratic stability."
+  },
+  {
+    "question": "Which theorist critiqued the pluralist model for ignoring systemic inequalities and power asymmetries in policy-making?",
+    "options": ["Robert Dahl", "C. Wright Mills", "David Easton", "John Stuart Mill"],
+    "answer": "C. Wright Mills",
+    "explanation": "C. Wright Mills, in 'The Power Elite' (1956), argues that political power is concentrated in a small elite comprising military, corporate, and political leaders. Unlike pluralist theory, which posits dispersed power among interest groups, Mills highlights systemic inequalities that marginalize broader societal participation."
+  },
+  {
+    "question": "Which concept describes a situation in which political authority is widely accepted, but governmental capacities are weak, leading to instability?",
+    "options": ["Failed State", "Anocracy", "Totalitarianism", "Oligarchy"],
+    "answer": "Anocracy",
+    "explanation": "Anocracy, as analyzed by political scientists like Jaggers and Gurr, refers to regimes with a mix of democratic and autocratic features. While legitimacy is acknowledged, institutional weaknesses create vulnerability to conflict, corruption, and governance crises."
+  },
+  {
+    "question": "Which theorist linked social contract theory with natural rights and posited government legitimacy derives from the consent of the governed?",
+    "options": ["Jean-Jacques Rousseau", "Thomas Hobbes", "John Locke", "Montesquieu"],
+    "answer": "John Locke",
+    "explanation": "John Locke’s 'Two Treatises of Government' (1689) emphasizes natural rights (life, liberty, and property) and asserts that governments are legitimate only with the consent of the governed. Locke contrasts with Hobbes by favoring limited government rather than absolute sovereignty."
+  },
+  {
+    "question": "The concept of 'State Capacity' in political sociology primarily refers to:",
+    "options": ["The coercive power of military alone", "The ability of a state to implement policies, collect taxes, and enforce law", "The size of bureaucratic apparatus", "The popularity of government among citizens"],
+    "answer": "The ability of a state to implement policies, collect taxes, and enforce law",
+    "explanation": "State capacity, as discussed by scholars like Charles Tilly and Joel Migdal, measures a state’s ability to administer resources, maintain order, and deliver public goods. High capacity correlates with effective governance, while weak capacity can lead to corruption, fragility, or state failure."
+  },
+  {
+    "question": "Which approach in International Relations emphasizes the role of ideas, norms, and identities rather than material capabilities?",
+    "options": ["Realism", "Liberal Institutionalism", "Constructivism", "Neorealism"],
+    "answer": "Constructivism",
+    "explanation": "Constructivist scholars like Alexander Wendt argue that international relations are socially constructed. Unlike Realism or Neorealism, which focus on material power and self-interest, Constructivism emphasizes how norms, identities, and shared understandings shape state behavior and the structure of the international system."
+  },
+  {
+    "question": "Which concept refers to the persistent social, political, and economic hierarchies maintained through both coercion and consent in postcolonial societies?",
+    "options": ["Hegemony", "Neo-colonialism", "Patrimonialism", "Dependency Theory"],
+    "answer": "Hegemony",
+    "explanation": "Antonio Gramsci’s concept of hegemony explains how ruling classes maintain dominance not solely through coercion but also through ideological and cultural consent. In postcolonial contexts, hegemonic structures perpetuate inequality even after formal independence, intersecting with dependency theory and neo-colonial analysis."
   }
 ]
